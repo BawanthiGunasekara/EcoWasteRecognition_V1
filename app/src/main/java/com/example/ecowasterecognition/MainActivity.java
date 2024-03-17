@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
 
-            String[] classes = {"SPI_1", "SPI_2", "SPI_3", "SPI_4", "SPI_5", "SPI_6"};
+            String[] classes = {"SPI_1", "SPI_2", "SPI_3", "SPI_4", "SPI_5"};
             result.setText(classes[maxPos]);
 
             // Releases model resources if no longer used.

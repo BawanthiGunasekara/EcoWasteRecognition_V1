@@ -15,7 +15,7 @@
         android:layout_centerVertical="true"
         android:text="Scan"
         android:textAllCaps="false"
-        android:textSize="21sp"
+        android:textSize="20sp"
         android:textStyle="bold" />
 
     <!--Button 2 Edit-->
@@ -56,7 +56,7 @@
         android:text=""
         android:textColor="#C30000"
         android:textStyle="bold"
-        android:textSize="27sp"
+        android:textSize="25sp"
         android:id="@+id/result"
         android:layout_below="@+id/classified"
         />
